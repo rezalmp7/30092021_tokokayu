@@ -1,0 +1,65 @@
+body
+{
+    font-family: poppins;
+}
+#login #left
+{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh !important;
+}
+
+#sidebar
+{
+    background-color: #5089C6;
+    box-shadow: 3px 0px 10px #5089C6;
+    min-height: 100vh !important;
+    overflow: hidden;
+}
+#sidebar #logo
+{
+    background-color: #035397;
+    box-shadow: 0px 3px 10px #035397;
+}
+#sidebar #logo span
+{
+    font-size: 19px;
+    font-weight: 600;
+}
+#sidebar a
+{
+    color: black;
+    padding-left: 0px;
+    font-family: Poppins;
+    transition: all 0.5s ease;
+}
+#sidebar a:hover
+{
+    color: black;
+    padding-left: 8px;
+    font-family: Poppins;
+}
+#body #header .dropdown-toggle
+{
+    border: 0px solid transparent;
+    background-color: transparent;
+}
+#dashboard #content #top_bar .card-body
+{
+    background-color: #001E6C;
+    color: white;
+    box-shadow: 3px 3px 10px #5e8bff;
+}
+#dashboard #content #top_bar .card-body>h4
+{
+    font-size: 16px;
+    font-weight: 800;
+    font-family: Poppins;
+}
+#dashboard #content #top_bar .card-body>div
+{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Poppins;
+}
